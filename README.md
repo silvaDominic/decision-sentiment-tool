@@ -3,7 +3,7 @@ An NLP tool that can be used to interpret voice input and distill its meaning in
 
 ## Concept
 
-Using the power of NLP and LLMs, a range of vocal inputs can be interpreted and distilled into a singular 'sentiment' which can represents some action.
+Using the power of NLP and LLMs, a range of vocal inputs can be interpreted and distilled into a singular 'sentiment' which can represent some action.
 
 ### Examples:
 
@@ -42,4 +42,4 @@ Using the power of NLP and LLMs, a range of vocal inputs can be interpreted and 
 >
 > Overall, the sentiment across these responses leans towards a preference for the left direction, whether based on personal desire, reasoned suggestion, playful language, or a sense of inevitability.
 
-Observe how these examples express nuance and deeper understanding of the English language yet all share the same sentiment -- 'Go left' or simply, 'left'. Chat-GPT's implementation is smart enough to not only complete the task, but describe the nuance of each decision. The aim of this project is to abstract this feature, albeit it, as a more primative version and add voice support.
+Observe how these examples express nuance and deeper understanding of the English language yet all share the same sentiment -- 'Go left' or simply, 'left'. Chat-GPT's implementation is smart enough to not only complete the task, but describe the nuance of each decision. The aim of this project is to abstract this feature, albeit, as a more primative version and add voice support.
